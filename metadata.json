@@ -1,0 +1,6 @@
+{
+  "name": "Rafiq - Trilingual Life & Dynamics Advisor",
+  "description": "An unfiltered, empathetic partner and strategic advisor in English, French, and Tunisian Arabic for school, job, social dynamics, and daily life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
